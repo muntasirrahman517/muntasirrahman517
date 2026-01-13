@@ -1,108 +1,116 @@
-# 👋 Assalamu Alaikum, I'm Hakim Khan  
+<h1 align="center">Assalamu Alaikum 👋, I'm Hakim Khan</h1>
+<h3 align="center">🚀 Web Developer | MERN Stack | Problem Solver</h3>
 
-🚀 **Web Developer | Problem Solver | Lifelong Learner**
-
-Welcome to my GitHub profile!  
-I’m **Hakim Khan**, a passionate **Web Developer** who loves building clean, scalable, and user-friendly web applications. I believe in writing code that is not only functional but also readable and maintainable.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
 ## 🧠 About Me
 
-- 💻 I specialize in **modern web development**
-- 🌱 Always learning new technologies and improving my skills
-- 🎯 Focused on building real-world, impactful projects
-- 🤝 Open to collaboration and knowledge sharing
-- 🕌 I try to maintain discipline, ethics, and consistency in both life and work
+- 💻 Passionate **Web Developer**
+- ⚡ Love building **clean & scalable web apps**
+- 🌱 Currently learning **advanced backend & system design**
+- 🧩 Strong believer in **problem-solving over memorization**
+- 🕌 Try to maintain discipline, ethics, and consistency in life & code
 
-> *“Code is not just about syntax, it’s about solving problems the right way.”*
+> *“First think, then code.”*
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
 
 ### 🌐 Frontend
-- HTML5, CSS3  
-- JavaScript (ES6+)  
-- React.js  
-- Next.js  
-- Tailwind CSS  
-- DaisyUI  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind" />
+</p>
 
 ### ⚙️ Backend
-- Node.js  
-- Express.js  
-- REST APIs  
-- Authentication (JWT, Firebase Auth)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+</p>
 
 ### 🗄️ Database
-- MongoDB  
-- Firebase Firestore  
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
 
-### 🧰 Tools & Platforms
-- Git & GitHub  
-- VS Code  
-- Postman  
-- Vercel / Netlify  
-- Firebase Hosting  
-
----
-
-## 📂 Projects
-
-Here are some things you’ll find in my repositories:
-
-- 🔹 Full-stack MERN applications  
-- 🔹 Authentication systems (Email / Google / JWT)  
-- 🔹 Dashboards & admin panels  
-- 🔹 API-based applications  
-- 🔹 Practice projects & experiments  
-
-Each project is built to **learn deeply**, not just to finish quickly.  
-*Masha'Allah*, consistency matters more than perfection.
+### 🧰 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
+</p>
 
 ---
 
-## 📈 What I’m Currently Working On
+## 📊 GitHub Stats (Eye-Catchy ✨)
 
-- Improving backend architecture
-- Writing cleaner and reusable React components
-- Learning advanced Next.js features
-- Strengthening problem-solving & data structures
-- Preparing for professional web development roles
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=YOUR_GITHUB_USERNAME&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="150"/>
+</p>
 
 ---
 
-## 🤝 Let’s Connect
+## 🚀 Projects & Work
 
-- 💼 GitHub: You are already here 😄  
-- 📧 Email: *(Add your email here)*  
-- 🌐 Portfolio: *(Add your portfolio link here)*  
+🔹 Full-stack MERN applications  
+🔹 Authentication systems (JWT, Firebase)  
+🔹 Dashboards & admin panels  
+🔹 REST API based projects  
+🔹 Practice & learning repositories  
 
-I’m always happy to connect with developers, learners, and collaborators.
+Each project is built with **learning + real-world use** in mind.  
+*Masha'Allah*, progress comes with consistency.
+
+---
+
+## 📈 Currently Focused On
+
+- 🔥 Advanced React & Next.js
+- ⚙️ Backend optimization
+- 🧠 Data Structures & problem solving
+- 🧪 Writing clean & maintainable code
+- 💼 Preparing for professional web dev roles
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## ⭐ Support
 
-If you find my projects useful:
-- 🌟 Star the repositories  
-- 🍴 Fork and experiment  
-- 🐞 Report issues or suggest improvements  
+If you like my work:
 
-Your support means a lot. **Jajhakallah** 🤍
+- 🌟 Star repositories  
+- 🍴 Fork & explore  
+- 🐞 Open issues / suggestions  
+
+Your support motivates me. **Jajhakallah 🤍**
 
 ---
 
-## 📝 Final Note
+## 📝 Final Words
 
-I believe success comes from:
-- Consistency  
+Success requires:
 - Patience  
-- Continuous learning  
+- Consistency  
+- Tawakkul  
 
-**Insha'Allah**, I aim to grow as a developer and as a person.
+**Insha'Allah**, I aim to grow as a developer and a better human being.
 
----
-
-✨ *Thank you for visiting my GitHub profile!* ✨
+✨ *Thanks for visiting my profile!* ✨
